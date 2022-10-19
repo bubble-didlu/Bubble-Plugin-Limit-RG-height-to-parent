@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "technical"
+    },
+    "description": "if ever needed a repeating group to be limited to its parent height, now you can use this action in your workflow to force it to its parent",
+    "image": "//s3.amazonaws.com/appforest_uf/f1666137805934x792047101891113200/2389774.png",
+    "license": "open_source",
+    "name": "Limit RG height to parent",
+    "plugin_instructions": "self explanatory"
+}

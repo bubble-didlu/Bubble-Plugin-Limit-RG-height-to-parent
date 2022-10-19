@@ -1,0 +1,14 @@
+{
+    "category": "plugins",
+    "display": "limit height to parent",
+    "fields": {
+        "AAD": {
+            "caption": "element_id",
+            "editor": "DynamicValue",
+            "name": "element_id",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}
